@@ -1,0 +1,28 @@
+{
+    "name": "mgldev/CsvSelect",
+    "description": "Initial idea for a quick and simple CSV reader",
+    "keywords": [
+        "csv reader",
+        "reader",
+        "csv import"
+    ],
+    "time": "2013-04-26",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Leach",
+            "email": "michaelgeorgeleach@googlemail.com",
+            "homepage": "http://www.mgldev.net"
+        }
+    ],
+    "support": {
+        "email": "ptlis@ptlis.net",
+        "issues": "https://github.com/mgldev/CsvSelect/issues",
+        "source": "https://github.com/mgldev/CsvSelect"
+    },
+    "autoload": {
+        "psr-0": {
+            "CsvSelect": "src/"
+        }
+    }
+}
